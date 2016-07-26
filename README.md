@@ -1,17 +1,21 @@
 # Arduino-based CPU Graph PCB
 
+## Opening this project
+
+Launch KiCAD and `Open` the `CPU_meter.pro` file.
+
 ## Disclaimer
 
 This is my first PCB ever!  I designed it using KiCAD on my Arch Linux laptop.
 
 ## What's done (*for now*)
 
-	* Schematic diagram
+- Schematic diagram
 
 ## TODO
 
-	* Make footprints
-	* Make board layout
+- Make footprints
+- Make board layout
 
 ## LICENSE
 
