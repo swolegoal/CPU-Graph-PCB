@@ -1,5 +1,7 @@
 # Arduino-based CPU Graph PCB
 
+![Schematic Diagram](https://i.imgur.com/ql9WqMu.png "Schematic diagram")
+
 ## Opening this project
 
 Launch KiCAD and `Open` the `CPU_meter.pro` file.
@@ -11,11 +13,11 @@ This is my first PCB ever!  I designed it using KiCAD on my Arch Linux laptop.
 ## What's done (*for now*)
 
 - Schematic diagram
+- Select and make footprints
 
 ## TODO
 
-- Make footprints
-- Make board layout
+- Finalize board layout
 
 ## LICENSE
 
